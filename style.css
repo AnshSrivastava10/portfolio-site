@@ -18,3 +18,26 @@ button {
     font-size: 18px;
     cursor: pointer;
 }
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+button {
+    background-color: cyan;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    cursor: pointer;
+}
